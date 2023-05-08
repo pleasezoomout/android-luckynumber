@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/casas de cambio/android-casasdedambio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/casas de cambio/api-casasdecambio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/casas de cambio/crons-casasdecambio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/luckynumber" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/metalgigs/metalgigs.admin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/metalgigs/metalgigs.android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/metalgigs/metalgigs.api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/metalgigs/metalgigs.crons" vcs="Git" />
+  </component>
+</project>
